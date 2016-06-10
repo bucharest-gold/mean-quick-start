@@ -76,7 +76,8 @@ basic layout generated in `./views/layout.jade`.
 
 ## Angular Front End
 
-  * Insert some content here
+  * Insert some content here - PH todo
+
 
 ## Model: MongoDB
 
